@@ -1,0 +1,16 @@
+package com.admin;
+
+/**
+ * ClassName:  GitTetst
+ * Package:    com.admin
+ * Descripition:
+ *
+ * @Author 张再
+ * @Create 2023/5/8 17:45
+ * @Version 1.0
+ */
+public class GitTetst {
+	public static void main (String[] args) {
+		System.out.println( "hello git!" );
+	}
+}
